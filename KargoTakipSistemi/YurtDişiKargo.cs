@@ -15,7 +15,7 @@ namespace KargoTakipSistemi
             //Artık burada KargoTakipNumarası,AliciAdi,GonderiDurumu bilgilerini direkt kullanabiliyoruz çünkü miras alındı.
             //Ayrıca bu bilgiler yurtdışı içinde kullandığımızdan dolayı abstract olarak aldık .
             Console.WriteLine("Yurtdışı Kargo Bilgileri :");
-            Console.WriteLine("Yurtdışı Kargo Takip Numarası : " + KargoTakipNumarası);
+            Console.WriteLine("Yurtdışı Kargo Takip Numarası : " + KargoTakipNumarasi);
             Console.WriteLine("Yurtdışı Kargo Alıcı Adı : " + AliciAdi);
             Console.WriteLine("Yurtdışı Kargonun Son Durumu : " + GonderiDurumu);
         }
