@@ -8,7 +8,7 @@ namespace KargoTakipSistemi
 {
     //Bu somut sınıflara ihtiyacımız vardır çünkü gerçek kargo tipleri olmak zorundadır.
     //Ve bunlar soyut sınıftan miras alırlar çünkü ortak kullanılanları kullanmaları gerekir
-    public class YurtDişiKargo : Kargo
+    public class YurtDisiKargo : Kargo
     {
         public override void GonderiBilgisiYazdir() //Override çünkü abstracttan miras aldı 
         {
