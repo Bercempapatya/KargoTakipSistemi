@@ -9,7 +9,7 @@ namespace KargoTakipSistemi
      public interface IGonderiTakip
     { 
         Durum GonderiDurumu { get; set; }//Burada kargonun son durumunu enumdan alıyoruz.
-        void DurumGuncelle(Durum yeniDurum);// Bu metotlada yukarda aldığımız bilgiden yola çıkarak en son oluşacak durumunu yeniliyoruz.
+       public void DurumGuncelle(Durum yeniDurum);// Bu metotlada yukarda aldığımız bilgiden yola çıkarak en son oluşacak durumunu yeniliyoruz.
 
     }
 }
