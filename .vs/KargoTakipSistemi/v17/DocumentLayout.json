@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZEHRA ASEL\\source\\repos\\KargoTakipSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF82D70-F242-40BA-A295-731B6EE86E40}|KargoTakipSistemi\\KargoTakipSistemi.csproj|c:\\users\\zehra asel\\source\\repos\\kargotakipsistemi\\kargotakipsistemi\\yurt\u0130\u00E7ikargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF82D70-F242-40BA-A295-731B6EE86E40}|KargoTakipSistemi\\KargoTakipSistemi.csproj|solutionrelative:kargotakipsistemi\\yurt\u0130\u00E7ikargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF82D70-F242-40BA-A295-731B6EE86E40}|KargoTakipSistemi\\KargoTakipSistemi.csproj|c:\\users\\zehra asel\\source\\repos\\kargotakipsistemi\\kargotakipsistemi\\yurtdi\u015Fikargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF82D70-F242-40BA-A295-731B6EE86E40}|KargoTakipSistemi\\KargoTakipSistemi.csproj|solutionrelative:kargotakipsistemi\\yurtdi\u015Fikargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF82D70-F242-40BA-A295-731B6EE86E40}|KargoTakipSistemi\\KargoTakipSistemi.csproj|c:\\users\\zehra asel\\source\\repos\\kargotakipsistemi\\kargotakipsistemi\\kargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF82D70-F242-40BA-A295-731B6EE86E40}|KargoTakipSistemi\\KargoTakipSistemi.csproj|solutionrelative:kargotakipsistemi\\kargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF82D70-F242-40BA-A295-731B6EE86E40}|KargoTakipSistemi\\KargoTakipSistemi.csproj|c:\\users\\zehra asel\\source\\repos\\kargotakipsistemi\\kargotakipsistemi\\igonderitakip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF82D70-F242-40BA-A295-731B6EE86E40}|KargoTakipSistemi\\KargoTakipSistemi.csproj|solutionrelative:kargotakipsistemi\\igonderitakip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF82D70-F242-40BA-A295-731B6EE86E40}|KargoTakipSistemi\\KargoTakipSistemi.csproj|c:\\users\\zehra asel\\source\\repos\\kargotakipsistemi\\kargotakipsistemi\\durum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF82D70-F242-40BA-A295-731B6EE86E40}|KargoTakipSistemi\\KargoTakipSistemi.csproj|solutionrelative:kargotakipsistemi\\durum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF82D70-F242-40BA-A295-731B6EE86E40}|KargoTakipSistemi\\KargoTakipSistemi.csproj|c:\\users\\zehra asel\\source\\repos\\kargotakipsistemi\\kargotakipsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF82D70-F242-40BA-A295-731B6EE86E40}|KargoTakipSistemi\\KargoTakipSistemi.csproj|solutionrelative:kargotakipsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF82D70-F242-40BA-A295-731B6EE86E40}|KargoTakipSistemi\\KargoTakipSistemi.csproj|c:\\users\\zehra asel\\source\\repos\\kargotakipsistemi\\kargotakipsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEF82D70-F242-40BA-A295-731B6EE86E40}|KargoTakipSistemi\\KargoTakipSistemi.csproj|solutionrelative:kargotakipsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YurtDi\u015FiKargo.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\KargoTakipSistemi\\KargoTakipSistemi\\YurtDi\u015FiKargo.cs",
+              "RelativeDocumentMoniker": "KargoTakipSistemi\\YurtDi\u015FiKargo.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\KargoTakipSistemi\\KargoTakipSistemi\\YurtDi\u015FiKargo.cs",
+              "RelativeToolTip": "KargoTakipSistemi\\YurtDi\u015FiKargo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:45:04.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Yurt\u0130\u00E7iKargo.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\KargoTakipSistemi\\KargoTakipSistemi\\Yurt\u0130\u00E7iKargo.cs",
+              "RelativeDocumentMoniker": "KargoTakipSistemi\\Yurt\u0130\u00E7iKargo.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\KargoTakipSistemi\\KargoTakipSistemi\\Yurt\u0130\u00E7iKargo.cs",
+              "RelativeToolTip": "KargoTakipSistemi\\Yurt\u0130\u00E7iKargo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:38:02.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kargo.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\KargoTakipSistemi\\KargoTakipSistemi\\Kargo.cs",
+              "RelativeDocumentMoniker": "KargoTakipSistemi\\Kargo.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\KargoTakipSistemi\\KargoTakipSistemi\\Kargo.cs",
+              "RelativeToolTip": "KargoTakipSistemi\\Kargo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:05:19.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGonderiTakip.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\KargoTakipSistemi\\KargoTakipSistemi\\IGonderiTakip.cs",
+              "RelativeDocumentMoniker": "KargoTakipSistemi\\IGonderiTakip.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\KargoTakipSistemi\\KargoTakipSistemi\\IGonderiTakip.cs",
+              "RelativeToolTip": "KargoTakipSistemi\\IGonderiTakip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:56:48.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\KargoTakipSistemi\\KargoTakipSistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "KargoTakipSistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\KargoTakipSistemi\\KargoTakipSistemi\\Form1.cs",
+              "RelativeToolTip": "KargoTakipSistemi\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:55:55.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Durum.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\KargoTakipSistemi\\KargoTakipSistemi\\Durum.cs",
+              "RelativeDocumentMoniker": "KargoTakipSistemi\\Durum.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\KargoTakipSistemi\\KargoTakipSistemi\\Durum.cs",
+              "RelativeToolTip": "KargoTakipSistemi\\Durum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:50:57.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ZEHRA ASEL\\source\\repos\\KargoTakipSistemi\\KargoTakipSistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "KargoTakipSistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\ZEHRA ASEL\\source\\repos\\KargoTakipSistemi\\KargoTakipSistemi\\Form1.cs [Design]",
+              "RelativeToolTip": "KargoTakipSistemi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:50:25.849Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
