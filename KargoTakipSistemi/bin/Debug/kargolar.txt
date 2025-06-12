@@ -1,0 +1,5 @@
+YI263586996,Berçem,Bermal,YurtIci,Elazığ,TeslimEdildi,2 gün,200
+YI482680404,Eren,Berçem,YurtIci,Kocaeli,TeslimEdildi,3 gün,200
+YD242249467,Nazar ,Berçem,YurtDisi,İngiltere,YolaCikti,8 gün,1000
+YI190971279,Berçem,Fadile,YurtIci,Elazığ,Hazirlaniyor,1 gün,200
+YI218622381,Ege ,Berçem,YurtIci,Çayırova\Kocaeli,YolaCikti,1 gün,200

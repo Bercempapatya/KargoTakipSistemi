@@ -1,0 +1,13 @@
+C:\Users\Berçem\Source\Repos\KargoTakipSistemi1\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\Berçem\Source\Repos\KargoTakipSistemi1\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.anaForm.resources
+C:\Users\Berçem\Source\Repos\KargoTakipSistemi1\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.FormCalisan.resources
+C:\Users\Berçem\Source\Repos\KargoTakipSistemi1\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.FormMusteri.resources
+C:\Users\Berçem\Source\Repos\KargoTakipSistemi1\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.Properties.Resources.resources
+C:\Users\Berçem\Source\Repos\KargoTakipSistemi1\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.csproj.GenerateResource.cache
+C:\Users\Berçem\Source\Repos\KargoTakipSistemi1\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Berçem\Source\Repos\KargoTakipSistemi1\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.exe.config
+C:\Users\Berçem\Source\Repos\KargoTakipSistemi1\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.exe
+C:\Users\Berçem\Source\Repos\KargoTakipSistemi1\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.pdb
+C:\Users\Berçem\Source\Repos\KargoTakipSistemi1\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.exe
+C:\Users\Berçem\Source\Repos\KargoTakipSistemi1\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.pdb
+C:\Users\Berçem\source\repos\KargoTakipSistemi1\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.FormIslemler.resources

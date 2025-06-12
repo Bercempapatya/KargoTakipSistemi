@@ -14,12 +14,14 @@ namespace KargoTakipSistemi
         public string GondericiAdi { get; set; }
         public Durum GonderiDurumu { get; set; } //Tüm Kargoların durum bilgisi olur o yüzden diğer sınıflarda da kullanmalıyız
         public string Adres {  get; set; }
-        public void DurumGuncelle(Durum yeniDurum){ GonderiDurumu=yeniDurum;}; //interface'den gelen metot. Kargo durumunu güncellemek için kullanılır.
-        public abstract void teslimSuresiHesapla(); //Buradan türetilecek kargoların yurt içi-dışı olma durumuna bağlı teslim suresi hesaplanır.
+
+        public string TeslimSuresi { get; set; } //Kargonun tahmini teslim süresi. Her kargo tipi için farklı hesaplanabilir.
+
+        public int Ucret { get; set; } //Kargonun ücreti. Yurt içi ve yurt dışı kargolar için farklı ücretler olabilir.
+        public void DurumGuncelle(Durum yeniDurum){ GonderiDurumu=yeniDurum;} //interface'den gelen metot. Kargo durumunu güncellemek için kullanılır.
+        public abstract string teslimSuresiHesapla(); //Buradan türetilecek kargoların yurt içi-dışı olma durumuna bağlı teslim suresi hesaplanır.
         public abstract int ucretHesapla(); //Kargonun yurt içi-dışı olmak üzere farklı ücretleri bu metotla hesaplanacaktır.
 
-        //Şimdi de tüm kargolarda olması gerekir ama her kargo tipi içinde farklıdır o yüzden sadece gövdesi oluşturuyoruz
-        public abstract void GonderiBilgisiYazdir();//Yani her kargo tipinde bu metot içeriği farklı olacak 
         public abstract string KodOlustur(); //Kargo takip numarası oluşturmak için kullanılır. Her kargo tipi için farklı bir kod oluşturma mantığı olabilir.
 
 
