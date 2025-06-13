@@ -1,5 +1,3 @@
-# KargoTakipSistemi
-KargoTakipSistemi
 # 📦 Kargo Takip Sistemi
 
 Bu proje, bir masaüstü Windows Forms uygulaması olarak geliştirilmiş bir *Kargo Takip Sistemi*dir. Amaç, kargo işlemlerinin çalışanlar ve müşteriler tarafından kolayca takip edilmesini sağlamaktır.
