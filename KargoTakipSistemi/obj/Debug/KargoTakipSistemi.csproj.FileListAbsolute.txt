@@ -11,3 +11,16 @@ C:\Users\Berçem\Source\Repos\KargoTakipSistemi1\KargoTakipSistemi\bin\Debug\Kar
 C:\Users\Berçem\Source\Repos\KargoTakipSistemi1\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.exe
 C:\Users\Berçem\Source\Repos\KargoTakipSistemi1\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.pdb
 C:\Users\Berçem\source\repos\KargoTakipSistemi1\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.FormIslemler.resources
+C:\Users\ZEHRA ASEL\KargoTakipSistemi\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.exe.config
+C:\Users\ZEHRA ASEL\KargoTakipSistemi\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.exe
+C:\Users\ZEHRA ASEL\KargoTakipSistemi\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.pdb
+C:\Users\ZEHRA ASEL\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\ZEHRA ASEL\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.anaForm.resources
+C:\Users\ZEHRA ASEL\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.FormCalisan.resources
+C:\Users\ZEHRA ASEL\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.FormIslemler.resources
+C:\Users\ZEHRA ASEL\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.FormMusteri.resources
+C:\Users\ZEHRA ASEL\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.Properties.Resources.resources
+C:\Users\ZEHRA ASEL\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.csproj.GenerateResource.cache
+C:\Users\ZEHRA ASEL\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ZEHRA ASEL\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.exe
+C:\Users\ZEHRA ASEL\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.pdb

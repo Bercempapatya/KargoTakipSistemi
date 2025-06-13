@@ -33,7 +33,7 @@ namespace KargoTakipSistemi
             dataGridView1.Refresh();//Kargo çalışanının kargo listesini dataGridView'a bağlıyoruz
 
 
-        }
+        }   
 
         private void button1_Click(object sender, EventArgs e)
         {
