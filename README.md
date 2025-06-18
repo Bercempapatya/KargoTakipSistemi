@@ -6,7 +6,7 @@ Bu proje, bir masaüstü Windows Forms uygulaması olarak geliştirilmiş bir *K
 
 🔐 *Giriş Sistemi*  
 - Çalışan ve müşteri için ayrı giriş ekranları  
-- Giriş bilgileri dosyadan kontrol edilir
+- Giriş bilgileri dosyadan kontrol edilir.Çalışanlar.txt dosyasında çalışanların kullanıcı adı ve şifresi tutulur.
 
 👩‍💼 *Çalışan İşlemleri*  
 - Yeni kargo ekleyebilir  
